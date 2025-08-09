@@ -5,3 +5,4 @@ pandas
 numpy
 pyfiglet
 termcolor
+matplotlib
