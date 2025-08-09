@@ -1,8 +1,4 @@
-flask
-gunicorn
-scikit-learn
+streamlit
 pandas
-numpy
-pyfiglet
-termcolor
 matplotlib
+seaborn
